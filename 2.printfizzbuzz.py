@@ -1,4 +1,4 @@
-for fizzbuzz in range(100):
+for fizzbuzz in range(1,100):
 
     if fizzbuzz % 15 == 0:
         print("FizzBuzz")
